@@ -8,9 +8,9 @@
 
 [Rust](https://github.com/rust-lang), empowering everyone to build reliable and efficient software.
 
-[Flamegraph](https://github.com/flamegraph-rs/flamegraph) a flamegraph generator.
+[Godot](https://github.com/godotengine/godot) Multi-platform 2D and 3D game engine.
 
-[Godot](https://github.com/godotengine/godot) Multi-platform 2D and 3D game engine 
+[Flamegraph](https://github.com/flamegraph-rs/flamegraph) a flamegraph generator.
 
 ### Bevy
 
