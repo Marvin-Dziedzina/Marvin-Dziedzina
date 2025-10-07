@@ -1,10 +1,8 @@
 # Hi, I'm Marvin!
 
-<br/><br/><br/><br/>
-
 :)
 
-<br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## My favorite open source projects
 
