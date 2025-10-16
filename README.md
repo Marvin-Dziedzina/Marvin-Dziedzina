@@ -10,6 +10,10 @@
 
 [Meshtastic](https://github.com/meshtastic) Open Source, decentralized mesh networking ecosystem.
 
+[Blender](https://projects.blender.org/BLENDER/BLENDER) you know, Blender.
+
+[Blockbench](https://github.com/JannisX11/blockbench) a low poly 3D model editor.
+
 [Godot](https://github.com/godotengine/godot) Multi-platform 2D and 3D game engine.
 
 [Flamegraph](https://github.com/flamegraph-rs/flamegraph) a flamegraph generator.
