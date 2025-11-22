@@ -49,3 +49,7 @@
 #### Miscellaneous
 
 [Ferris Pack](https://github.com/MariaLetta/free-ferris-pack) 🦀 Pack of 50+ Ferris pictures and elements will help you to build your own design for anything related to Rust Programming Language: presentations, README files, posts in blogs or social media, courses, videos and many, many more.
+
+##### Fonts
+
+[Iosevka](https://github.com/be5invis/Iosevka)
