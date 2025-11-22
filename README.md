@@ -34,6 +34,8 @@
 
 [ALVR](https://github.com/alvr-org/ALVR) stream VR games from your PC to your headset via Wi-Fi.
 
+[presenterm](https://github.com/mfontanini/presenterm) a markdown terminal slideshow tool.
+
 ### Honorable Mention
 
 #### Educational
